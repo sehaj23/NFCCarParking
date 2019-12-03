@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sehaj.nfccarparking.aboutus">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="361dp"
+        android:layout_height="445dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="As there is a lot of development of in social and economic,large number of vehicles is growing everywhere in India.So large parking area is predictable in future development.This makes owner hard to find and park the vehicle.Number of vehicle is stolen when they are parked. In orderto overcome the above mentioned problems, for currentparking issues we need to develop an intelligent and a secure parking system which is more important in daily life. In this we creates a new system is used for parking of vehicle and reverse exploration of the vehicle using wireless communication for the completion of parking exposure and also reverse exploration of vehicle uses software to place and relocate the vehicle. This makes the owner to quick search of their vehicle, which increases in efficiency. Parking and reverse exploration of vehicle based on NFC (Near Field Communication) technology which tends to intelligent vehicle parking system will develop in future.          Team NFC CAR PARKING"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView14"
+        tools:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="125dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="NFC CAR PARKING"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

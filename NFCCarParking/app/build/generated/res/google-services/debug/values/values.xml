@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">512660408349-5savt09n1ftmgqdc2e4mb4jbntkagfdh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://nfc-car-parking.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">512660408349</string>
+    <string name="google_api_key" translatable="false">AIzaSyCuwLFIcHt-Lo5uvuv1uXzxprxA_f7_RgA</string>
+    <string name="google_app_id" translatable="false">1:512660408349:android:468617dc85015946</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCuwLFIcHt-Lo5uvuv1uXzxprxA_f7_RgA</string>
+    <string name="google_storage_bucket" translatable="false">nfc-car-parking.appspot.com</string>
+    <string name="project_id" translatable="false">nfc-car-parking</string>
+</resources>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "512660408349",
+    "firebase_url": "https://nfc-car-parking.firebaseio.com",
+    "project_id": "nfc-car-parking",
+    "storage_bucket": "nfc-car-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512660408349:android:468617dc85015946",
+        "android_client_info": {
+          "package_name": "com.example.sehaj.nfccarparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512660408349-oavrat3hefeq5mgvic5sn3ag8bagq7n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sehaj.nfccarparking",
+            "certificate_hash": "5d1b0e049b374fe5792da952c919a8f4b3cde9d5"
+          }
+        },
+        {
+          "client_id": "512660408349-hnm5q5401pqkji9rjls44vr7pptr6g6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sehaj.nfccarparking",
+            "certificate_hash": "a322537903680c5b10ab54ffcf36b09b36ebef46"
+          }
+        },
+        {
+          "client_id": "512660408349-5savt09n1ftmgqdc2e4mb4jbntkagfdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuwLFIcHt-Lo5uvuv1uXzxprxA_f7_RgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512660408349-5savt09n1ftmgqdc2e4mb4jbntkagfdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
